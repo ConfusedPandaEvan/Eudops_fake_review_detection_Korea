@@ -1,0 +1,4 @@
+company_name,product_name,days_diff,max_reviews_per_day,num_dates_higher_than_max,total_reviews_higher_than_max,high_volume_review_percentage,avg_ratings_higher_than_max,avg_ratings_lower_than_max
+Rafer,,1555,239,17,44597,77.85,5.0,4.63
+LiveOrals,치카퐁 입냄새제거 고체가글 (1+1),2264,23,83,2550,34.52,4.87,4.83
+the912,,1414,75,27,23034,48.84,5.0,4.65

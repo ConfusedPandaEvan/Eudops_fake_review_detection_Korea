@@ -1,0 +1,2 @@
+company_name,product_name,days_diff,max_reviews_per_day,num_dates_higher_than_max,total_reviews_higher_than_max,high_volume_review_percentage,avg_ratings_higher_than_max,avg_ratings_lower_than_max
+딥디크,"딥티크 롬브르 단 로 EDT, 50ml, 1개",2375,1,8,19,14.62,4.95,4.71

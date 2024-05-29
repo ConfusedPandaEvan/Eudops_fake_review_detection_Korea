@@ -1,0 +1,5 @@
+,avg_rating_anomalies,avg_rating_non_anomalies,avg_ratings_higher_than_max,avg_ratings_lower_than_max,avg_ratings_non_unique,avg_ratings_unique,days_diff,high_volume_review_percentage,max_reviews_per_day,num_dates_higher_than_max,percentage_anomalies,percentage_non_unique,percentage_of_review_w_common_phrases,ratings_with_phrases,ratings_without_phrases,total_reviews_higher_than_max
+/mnt/data/Coupang_Anomalies.csv,4.658928571428572,4.527500000000001,,,,,,,,,4.515714285714286,,,,,
+/mnt/data/Coupang_unique_nonunique.csv,,,,,4.635000000000001,4.276428571428572,,,,,,0.44750000000000006,,,,
+/mnt/data/Coupang_rating_trend.csv,,,4.587142857142857,4.51,,,1848.607142857143,33.003571428571426,1.8214285714285714,105.53571428571429,,,,,,317.67857142857144
+/mnt/data/Coupang_phrase_repetition.csv,,,,,,,,,,,,,1.2103571428571427,4.812307692307693,4.538928571428572,

@@ -1,0 +1,5 @@
+,avg_rating_anomalies,avg_rating_non_anomalies,avg_ratings_higher_than_max,avg_ratings_lower_than_max,avg_ratings_non_unique,avg_ratings_unique,days_diff,high_volume_review_percentage,max_reviews_per_day,num_dates_higher_than_max,percentage_anomalies,percentage_non_unique,percentage_of_review_w_common_phrases,product_name,ratings_with_phrases,ratings_without_phrases,total_reviews_higher_than_max
+/mnt/data/Crema_Anomalies.csv,4.921666666666667,4.918333333333334,,,,,,,,,6.62,,,,,,
+/mnt/data/Crema_unique_nonunique.csv,,,,,4.824285714285714,4.913636363636363,,,,,,13.664545454545454,,,,,
+/mnt/data/Crema_rating_trend.csv,,,4.921666666666666,4.916666666666667,,,1141.3333333333333,48.798333333333325,9.5,126.33333333333333,,,,,,,3386.6666666666665
+/mnt/data/Crema_phrase_repetition.csv,,,,,,,,,,,,,12.455454545454547,,4.925,4.895454545454545,
