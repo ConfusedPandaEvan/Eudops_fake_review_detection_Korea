@@ -1,2 +1,0 @@
-company_name,product_name,days_diff,max_reviews_per_day,num_dates_higher_than_max,total_reviews_higher_than_max,high_volume_review_percentage,avg_ratings_higher_than_max,avg_ratings_lower_than_max
-FirstAid,,475,4,31,272,42.97,4.85,4.78
